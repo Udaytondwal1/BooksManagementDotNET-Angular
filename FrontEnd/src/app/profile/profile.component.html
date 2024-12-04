@@ -1,0 +1,56 @@
+<mat-card>
+    <mat-card-header style="justify-content: center;">
+      <mat-card-title>
+        <h1>Your Profile</h1>
+      </mat-card-title>
+    </mat-card-header>
+    <mat-card-content>
+      <!-- Profile Information Table -->
+      <table mat-table [dataSource]="dataSource" class="mat-elevation-z8">
+        <!-- Name Column -->
+        <ng-container matColumnDef="name">
+          <th mat-header-cell *matHeaderCellDef>Name</th>
+          <td mat-cell *matCellDef="let element">{{ element.name }}</td>
+        </ng-container>
+        <!-- Value Column -->
+        <ng-container matColumnDef="value">
+          <th mat-header-cell *matHeaderCellDef>Value</th>
+          <td mat-cell *matCellDef="let element">{{ element.value }}</td>
+        </ng-container>
+        <tr mat-header-row *matHeaderRowDef="columns" hidden></tr>
+        <tr mat-row *matRowDef="let row; columns: columns;"></tr>
+      </table>
+  
+      <!-- Update Profile Form -->
+      <h3 style="margin-top: 20px; text-align: center;">Update Profile</h3>
+      <form [formGroup]="profileForm" (ngSubmit)="updateProfile()" style="max-width: 400px; margin: 0 auto;">
+        <mat-form-field appearance="fill" style="width: 100%;">
+          <mat-label>First Name</mat-label>
+          <input matInput formControlName="firstName" type="text" />
+          <mat-error *ngIf="profileForm.get('firstName')?.invalid">First name is required</mat-error>
+        </mat-form-field>
+  
+        <mat-form-field appearance="fill" style="width: 100%;">
+          <mat-label>Last Name</mat-label>
+          <input matInput formControlName="lastName" type="text" />
+          <mat-error *ngIf="profileForm.get('lastName')?.invalid">Last name is required</mat-error>
+        </mat-form-field>
+  
+        <mat-form-field appearance="fill" style="width: 100%;">
+          <mat-label>Mobile</mat-label>
+          <input matInput formControlName="mobile" type="text" />
+          <mat-error *ngIf="profileForm.get('mobile')?.invalid">Invalid mobile number</mat-error>
+        </mat-form-field>
+  
+        <mat-form-field appearance="fill" style="width: 100%;">
+          <mat-label>Password</mat-label>
+          <input matInput formControlName="password" type="password" />
+        </mat-form-field>
+  
+        <button mat-raised-button color="primary" type="submit" [disabled]="profileForm.invalid" style="width: 100%; margin-top: 10px;">
+          Update Profile
+        </button>
+      </form>
+    </mat-card-content>
+  </mat-card>
+  

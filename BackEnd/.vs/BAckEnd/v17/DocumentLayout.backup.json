@@ -1,0 +1,276 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Books-Management-DotNet\\BackEnd\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CDD815F8-DB58-4465-92F3-C4CF561607AE}|BackEnd\\BackEnd.csproj|d:\\books-management-dotnet\\backend\\backend\\controllers\\librarycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CDD815F8-DB58-4465-92F3-C4CF561607AE}|BackEnd\\BackEnd.csproj|solutionrelative:backend\\controllers\\librarycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDD815F8-DB58-4465-92F3-C4CF561607AE}|BackEnd\\BackEnd.csproj|d:\\books-management-dotnet\\backend\\backend\\data access\\dataaccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CDD815F8-DB58-4465-92F3-C4CF561607AE}|BackEnd\\BackEnd.csproj|solutionrelative:backend\\data access\\dataaccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDD815F8-DB58-4465-92F3-C4CF561607AE}|BackEnd\\BackEnd.csproj|d:\\books-management-dotnet\\backend\\backend\\data access\\idataaccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CDD815F8-DB58-4465-92F3-C4CF561607AE}|BackEnd\\BackEnd.csproj|solutionrelative:backend\\data access\\idataaccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDD815F8-DB58-4465-92F3-C4CF561607AE}|BackEnd\\BackEnd.csproj|d:\\books-management-dotnet\\backend\\backend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CDD815F8-DB58-4465-92F3-C4CF561607AE}|BackEnd\\BackEnd.csproj|solutionrelative:backend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDD815F8-DB58-4465-92F3-C4CF561607AE}|BackEnd\\BackEnd.csproj|d:\\books-management-dotnet\\backend\\backend\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CDD815F8-DB58-4465-92F3-C4CF561607AE}|BackEnd\\BackEnd.csproj|solutionrelative:backend\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDD815F8-DB58-4465-92F3-C4CF561607AE}|BackEnd\\BackEnd.csproj|d:\\books-management-dotnet\\backend\\backend\\data access\\jwt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CDD815F8-DB58-4465-92F3-C4CF561607AE}|BackEnd\\BackEnd.csproj|solutionrelative:backend\\data access\\jwt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDD815F8-DB58-4465-92F3-C4CF561607AE}|BackEnd\\BackEnd.csproj|d:\\books-management-dotnet\\backend\\backend\\models\\modelbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CDD815F8-DB58-4465-92F3-C4CF561607AE}|BackEnd\\BackEnd.csproj|solutionrelative:backend\\models\\modelbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDD815F8-DB58-4465-92F3-C4CF561607AE}|BackEnd\\BackEnd.csproj|d:\\books-management-dotnet\\backend\\backend\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CDD815F8-DB58-4465-92F3-C4CF561607AE}|BackEnd\\BackEnd.csproj|solutionrelative:backend\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDD815F8-DB58-4465-92F3-C4CF561607AE}|BackEnd\\BackEnd.csproj|d:\\books-management-dotnet\\backend\\backend\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{CDD815F8-DB58-4465-92F3-C4CF561607AE}|BackEnd\\BackEnd.csproj|solutionrelative:backend\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDD815F8-DB58-4465-92F3-C4CF561607AE}|BackEnd\\BackEnd.csproj|d:\\books-management-dotnet\\backend\\backend\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{CDD815F8-DB58-4465-92F3-C4CF561607AE}|BackEnd\\BackEnd.csproj|solutionrelative:backend\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDD815F8-DB58-4465-92F3-C4CF561607AE}|BackEnd\\BackEnd.csproj|d:\\books-management-dotnet\\backend\\backend\\data access\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CDD815F8-DB58-4465-92F3-C4CF561607AE}|BackEnd\\BackEnd.csproj|solutionrelative:backend\\data access\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDD815F8-DB58-4465-92F3-C4CF561607AE}|BackEnd\\BackEnd.csproj|d:\\books-management-dotnet\\backend\\backend\\data access\\bookcategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CDD815F8-DB58-4465-92F3-C4CF561607AE}|BackEnd\\BackEnd.csproj|solutionrelative:backend\\data access\\bookcategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDD815F8-DB58-4465-92F3-C4CF561607AE}|BackEnd\\BackEnd.csproj|d:\\books-management-dotnet\\backend\\backend\\data access\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CDD815F8-DB58-4465-92F3-C4CF561607AE}|BackEnd\\BackEnd.csproj|solutionrelative:backend\\data access\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDD815F8-DB58-4465-92F3-C4CF561607AE}|BackEnd\\BackEnd.csproj|d:\\books-management-dotnet\\backend\\backend\\data access\\dbcontext||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{CDD815F8-DB58-4465-92F3-C4CF561607AE}|BackEnd\\BackEnd.csproj|solutionrelative:backend\\data access\\dbcontext||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDD815F8-DB58-4465-92F3-C4CF561607AE}|BackEnd\\BackEnd.csproj|d:\\books-management-dotnet\\backend\\backend\\migrations\\20241118040904_initialmigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CDD815F8-DB58-4465-92F3-C4CF561607AE}|BackEnd\\BackEnd.csproj|solutionrelative:backend\\migrations\\20241118040904_initialmigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IDataAccess.cs",
+              "DocumentMoniker": "D:\\Books-Management-DotNet\\BackEnd\\BackEnd\\Data Access\\IDataAccess.cs",
+              "RelativeDocumentMoniker": "BackEnd\\Data Access\\IDataAccess.cs",
+              "ToolTip": "D:\\Books-Management-DotNet\\BackEnd\\BackEnd\\Data Access\\IDataAccess.cs",
+              "RelativeToolTip": "BackEnd\\Data Access\\IDataAccess.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAA6wBwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T17:32:49.902Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ModelBase.cs",
+              "DocumentMoniker": "D:\\Books-Management-DotNet\\BackEnd\\BackEnd\\Models\\ModelBase.cs",
+              "RelativeDocumentMoniker": "BackEnd\\Models\\ModelBase.cs",
+              "ToolTip": "D:\\Books-Management-DotNet\\BackEnd\\BackEnd\\Models\\ModelBase.cs",
+              "RelativeToolTip": "BackEnd\\Models\\ModelBase.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T17:32:49.911Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "User.cs",
+              "DocumentMoniker": "D:\\Books-Management-DotNet\\BackEnd\\BackEnd\\Models\\User.cs",
+              "RelativeDocumentMoniker": "BackEnd\\Models\\User.cs",
+              "ToolTip": "D:\\Books-Management-DotNet\\BackEnd\\BackEnd\\Models\\User.cs",
+              "RelativeToolTip": "BackEnd\\Models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T17:32:49.913Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "D:\\Books-Management-DotNet\\BackEnd\\BackEnd\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "BackEnd\\ApplicationDbContext.cs",
+              "ToolTip": "D:\\Books-Management-DotNet\\BackEnd\\BackEnd\\ApplicationDbContext.cs",
+              "RelativeToolTip": "BackEnd\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAA3wAsAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T04:06:40.169Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Books-Management-DotNet\\BackEnd\\BackEnd\\appsettings.json",
+              "RelativeDocumentMoniker": "BackEnd\\appsettings.json",
+              "ToolTip": "D:\\Books-Management-DotNet\\BackEnd\\BackEnd\\appsettings.json",
+              "RelativeToolTip": "BackEnd\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-17T17:32:49.915Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Books-Management-DotNet\\BackEnd\\BackEnd\\Program.cs",
+              "RelativeDocumentMoniker": "BackEnd\\Program.cs",
+              "ToolTip": "D:\\Books-Management-DotNet\\BackEnd\\BackEnd\\Program.cs",
+              "RelativeToolTip": "BackEnd\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T17:32:49.905Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DataAccess.cs",
+              "DocumentMoniker": "D:\\Books-Management-DotNet\\BackEnd\\BackEnd\\Data Access\\DataAccess.cs",
+              "RelativeDocumentMoniker": "BackEnd\\Data Access\\DataAccess.cs",
+              "ToolTip": "D:\\Books-Management-DotNet\\BackEnd\\BackEnd\\Data Access\\DataAccess.cs",
+              "RelativeToolTip": "BackEnd\\Data Access\\DataAccess.cs",
+              "ViewState": "AgIAADIBAAAAAAAAAAAIwEwBAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T17:32:49.9Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LibraryController.cs",
+              "DocumentMoniker": "D:\\Books-Management-DotNet\\BackEnd\\BackEnd\\Controllers\\LibraryController.cs",
+              "RelativeDocumentMoniker": "BackEnd\\Controllers\\LibraryController.cs",
+              "ToolTip": "D:\\Books-Management-DotNet\\BackEnd\\BackEnd\\Controllers\\LibraryController.cs",
+              "RelativeToolTip": "BackEnd\\Controllers\\LibraryController.cs",
+              "ViewState": "AgIAAKAAAAAAAAAAAAAgwK8AAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T17:32:49.897Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Jwt.cs",
+              "DocumentMoniker": "D:\\Books-Management-DotNet\\BackEnd\\BackEnd\\Data Access\\Jwt.cs",
+              "RelativeDocumentMoniker": "BackEnd\\Data Access\\Jwt.cs",
+              "ToolTip": "D:\\Books-Management-DotNet\\BackEnd\\BackEnd\\Data Access\\Jwt.cs",
+              "RelativeToolTip": "BackEnd\\Data Access\\Jwt.cs",
+              "ViewState": "AgIAACsAAAAAAAAAAAAkwD0AAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T17:46:10.683Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "D:\\Books-Management-DotNet\\BackEnd\\BackEnd\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "BackEnd\\Properties\\launchSettings.json",
+              "ToolTip": "D:\\Books-Management-DotNet\\BackEnd\\BackEnd\\Properties\\launchSettings.json",
+              "RelativeToolTip": "BackEnd\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-17T17:46:00.357Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Order.cs",
+              "DocumentMoniker": "D:\\Books-Management-DotNet\\BackEnd\\BackEnd\\Data Access\\Order.cs",
+              "RelativeDocumentMoniker": "BackEnd\\Data Access\\Order.cs",
+              "ToolTip": "D:\\Books-Management-DotNet\\BackEnd\\BackEnd\\Data Access\\Order.cs",
+              "RelativeToolTip": "BackEnd\\Data Access\\Order.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T17:32:49.756Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "BookCategory.cs",
+              "DocumentMoniker": "D:\\Books-Management-DotNet\\BackEnd\\BackEnd\\Data Access\\BookCategory.cs",
+              "RelativeDocumentMoniker": "BackEnd\\Data Access\\BookCategory.cs",
+              "ToolTip": "D:\\Books-Management-DotNet\\BackEnd\\BackEnd\\Data Access\\BookCategory.cs",
+              "RelativeToolTip": "BackEnd\\Data Access\\BookCategory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T17:32:49.909Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Book.cs",
+              "DocumentMoniker": "D:\\Books-Management-DotNet\\BackEnd\\BackEnd\\Data Access\\Book.cs",
+              "RelativeDocumentMoniker": "BackEnd\\Data Access\\Book.cs",
+              "ToolTip": "D:\\Books-Management-DotNet\\BackEnd\\BackEnd\\Data Access\\Book.cs",
+              "RelativeToolTip": "BackEnd\\Data Access\\Book.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T17:32:49.907Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "DbContext",
+              "DocumentMoniker": "D:\\Books-Management-DotNet\\BackEnd\\BackEnd\\Data Access\\DbContext",
+              "RelativeDocumentMoniker": "BackEnd\\Data Access\\DbContext",
+              "ToolTip": "D:\\Books-Management-DotNet\\BackEnd\\BackEnd\\Data Access\\DbContext",
+              "RelativeToolTip": "BackEnd\\Data Access\\DbContext",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-11-18T03:41:46.224Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "20241118040904_InitialMigration.cs",
+              "DocumentMoniker": "D:\\Books-Management-DotNet\\BackEnd\\BackEnd\\Migrations\\20241118040904_InitialMigration.cs",
+              "RelativeDocumentMoniker": "BackEnd\\Migrations\\20241118040904_InitialMigration.cs",
+              "ToolTip": "D:\\Books-Management-DotNet\\BackEnd\\BackEnd\\Migrations\\20241118040904_InitialMigration.cs",
+              "RelativeToolTip": "BackEnd\\Migrations\\20241118040904_InitialMigration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T04:09:04.833Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

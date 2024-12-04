@@ -1,0 +1,30 @@
+:host{
+    display: block;
+    width: max-content ;
+    margin: 3rem auto 0;
+    width: 70%;
+}
+
+
+h1{
+    letter-spacing: 2px;
+    font-weight: bold;
+    color: green;
+}
+table{
+    width: 100%;
+    
+    .mat-column-name{
+        border-right: 1px solid;
+
+    }
+    .mat-cell{
+        padding: 1rem;
+        font-size: 1.3rem;
+    }
+}
+.mat-row{
+    &:hover{
+        background-color: white;
+    }
+}
